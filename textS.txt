@@ -1,0 +1,4 @@
+
+	Nombre: ASDF
+	Apellidos: �LKJ
+	Ciudad Nac: RERE
